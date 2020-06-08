@@ -1,0 +1,23 @@
+{
+  "id": "1721950",
+  "name": "myIcon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1221242",
+      "name": "点赞",
+      "font_class": "HaveThumbUp",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "13768625",
+      "name": "点赞",
+      "font_class": "NoThumbUp",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}
